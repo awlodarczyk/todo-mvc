@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_activity">Go to test activity</string>
+    <string name="action_items">Items</string>
+    <string name="action_archived">Archived</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="add_text">Add item</string>
+    <string name="hint_text">Type text value</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="change_priority">Change priority</string>
+    <string name="select_new_priority">Select new priority for this item</string>
+    <string name="urgent">Urgent</string>
+    <string name="important">Important</string>
+    <string name="normal">Normal</string>
+    <string name="item_updated">New status set</string>
+    <string name="change_state">Change item state</string>
+    <string name="do_you_want_to_close">Are You sure, to mark it done?</string>
+    <string name="need_fill_input">Input should be filled</string>
+</resources>
